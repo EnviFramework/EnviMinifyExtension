@@ -12,8 +12,8 @@ authors:
         name: "suzunone"
         email: "suzunone.eleven@gmail.com"
 support:
-    issues: "https://github.com/EnviMVC/EnviMarkdownExtension/issues"
-    forum: "https://github.com/EnviMVC/EnviMarkdownExtension/issues"
+    issues: "https://github.com/EnviMVC/EnviMinifyExtension/issues"
+    forum: "https://github.com/EnviMVC/EnviMinifyExtension/issues"
 require: {
     php: ">=5.2"
     envi: ">=3.4.8"
